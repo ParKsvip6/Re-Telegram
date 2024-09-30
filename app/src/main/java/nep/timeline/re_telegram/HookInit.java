@@ -23,6 +23,8 @@ public class HookInit implements IXposedHookLoadPackage {
             "com.exteragram.messenger",
             "org.forkgram.messenger",
             "org.forkclient.messenger",
+            "org.telegram.messengers",
+            "org.telegram.group",
             "org.forkclient.messenger.beta",
             "uz.unnarsx.cherrygram",
             "me.onlyfire.yukigram.beta",
